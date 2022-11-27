@@ -10,5 +10,5 @@ elif bmi < 25:
 elif bmi < 30:
  print(f"your bmi is {bmi}, you are a fatass.")
 elif bmi < 35:
- print("your bmi is {bmi}, you are freaking obese. ")
+ print(f"your bmi is {bmi}, you are freaking obese. ")
 
